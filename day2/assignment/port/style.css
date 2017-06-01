@@ -1,0 +1,49 @@
+body {
+    font-family: fantasy;
+}
+
+html {
+    background: url(http://www.loft14design.com/images/bg_portfolio_greybrick.jpg);
+    background-size: 110% auto;
+    padding: 0px;
+}
+
+#title {
+    margin: 2%;
+    font-size: 400%;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+#navi {
+    margin-left: auto;
+    align-items: center;
+    color: white;
+}
+
+.horizontal {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.icon {
+    margin: 0 auto;
+    display: block;
+    width: 80px;
+    height: 80px;
+}
+
+#photo {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 4%%;
+}
