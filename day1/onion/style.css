@@ -1,0 +1,22 @@
+
+#title {
+    color: darkgreen;
+    text-align: center;
+    font-family: georgia;
+}
+
+h2 {
+    font-size: 19px;
+    text-align: center;
+    font-family: georgia;
+}
+
+p,
+li {
+    font-size: 19px;
+}
+
+#may {
+    text-transform: uppercase;
+    font-size: 19px;
+}

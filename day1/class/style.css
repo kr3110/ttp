@@ -1,0 +1,24 @@
+body{
+    display: block;
+ text-align: left;
+ font-size: 15px;
+ margin: 0 auto;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+
+}
+#text{
+    background-color: black;
+    color:red;
+    align-content: center;
+    padding-left:10%;
+    padding-right: 10%;
+    min-width:  520px;
+}
